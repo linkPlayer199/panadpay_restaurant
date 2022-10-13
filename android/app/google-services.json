@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "391912612715",
+    "project_id": "pandapayuser",
+    "storage_bucket": "pandapayuser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391912612715:android:780ba0e0876dec3ddf222e",
+        "android_client_info": {
+          "package_name": "com.iderux.pandapayrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391912612715-b3g2doan37fm755sqf2ao1054tqq0fc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5v8ze-Xc7OB7_XNgPna42Uu6jMsD0KMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391912612715-b3g2doan37fm755sqf2ao1054tqq0fc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391912612715-6tgpa07gqbs3q9a5p64sqquul7hq8cha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iderux.pandapayuser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391912612715:android:895c5be54be25f92df222e",
+        "android_client_info": {
+          "package_name": "com.iderux.pandapayuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391912612715-b3g2doan37fm755sqf2ao1054tqq0fc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5v8ze-Xc7OB7_XNgPna42Uu6jMsD0KMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391912612715-b3g2doan37fm755sqf2ao1054tqq0fc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "391912612715-6tgpa07gqbs3q9a5p64sqquul7hq8cha.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.iderux.pandapayuser"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
